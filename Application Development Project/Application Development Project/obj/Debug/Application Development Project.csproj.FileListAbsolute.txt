@@ -1,0 +1,54 @@
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application Development Project.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.admin_Dashboard.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Acceptet_Job.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Customer_Details.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Job.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Product.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Admin_Login.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Admin_Register.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Cancel_or_Update_Job.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Create_New_Job.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Customer_Dashboard.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Customer_login.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Customer_Registration.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Product_Categorey.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Vehicle_Registration.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Properties.Resources.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.View_Job_States.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.View_Job.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Welcome.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application Development Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application Development Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Employee_Registration.resources
+C:\Users\User\source\repos\Application Development Project\Application Development Project\bin\Debug\Application Development Project.exe.config
+C:\Users\User\source\repos\Application Development Project\Application Development Project\bin\Debug\Application Development Project.exe
+C:\Users\User\source\repos\Application Development Project\Application Development Project\bin\Debug\Application Development Project.pdb
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application Development Project.exe
+C:\Users\User\source\repos\Application Development Project\Application Development Project\obj\Debug\Application Development Project.pdb
+F:\Projects\AP\Application Development Project\Application Development Project\bin\Debug\Application Development Project.exe.config
+F:\Projects\AP\Application Development Project\Application Development Project\bin\Debug\Application Development Project.exe
+F:\Projects\AP\Application Development Project\Application Development Project\bin\Debug\Application Development Project.pdb
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application Development Project.csproj.AssemblyReference.cache
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.admin_Dashboard.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Acceptet_Job.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Customer_Details.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Job.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Manage_Product.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Admin_Login.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Admin_Register.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Employee_Registration.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Cancel_or_Update_Job.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Create_New_Job.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Customer_Dashboard.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Customer_login.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Customer_Registration.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Product_Categorey.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Vehicle_Registration.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Properties.Resources.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.View_Job_States.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.View_Job.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application_Development_Project.Welcome.resources
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application Development Project.csproj.GenerateResource.cache
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application Development Project.csproj.CoreCompileInputs.cache
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application Development Project.exe
+F:\Projects\AP\Application Development Project\Application Development Project\obj\Debug\Application Development Project.pdb
